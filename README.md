@@ -23,6 +23,8 @@ On the same Wi-Fi, a compatible local connector can connect directly over encryp
 
 For an agent, the basic tool sequence is `devices_list` to find an approved screen, `display_render_html` to deliver the page and `view_get_state` or `view_get_events` to retrieve what the page saved. Check the capabilities reported for the selected screen before requesting an operation.
 
+[Explore the Android WebView runtime and connection diagrams.](https://screenforai.app/technology)
+
 ## Connect
 
 1. Install [Screen for AI on Google Play](https://play.google.com/store/apps/details?id=app.screenforai). Open the app and follow the steps to connect the screen **Over the internet**.
